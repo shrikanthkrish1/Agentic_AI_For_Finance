@@ -1,5 +1,11 @@
 # Agentic_AI_For_Finance
 ![Alt text](https://github.com/shrikanthkrish1/Agentic_AI_For_Finance/blob/main/Agentic_aI_Finance.drawio.png)
+
+
+
+
+
+
 1.Upload & Auto-Clean Data
 Upload a CSV containing revenue, expenses, profit, or other financial metrics. The built-in cleaning tool standardizes numbers, fills missing values, and checks for outliers.
 
