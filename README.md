@@ -24,3 +24,13 @@ Ask questions about your uploaded data or tell the agent to “run simulation”
 
 Note:-
 This runs on local LLM (Deepseek:R1 Latest). use ollama to pull the llm. and to run download all the files to Vsvode or Pycharm and in terminal run command streamlit run stremlit_ui.py
+
+
+Output Demo
+
+
+
+
+
+
+![Alt text](https://github.com/shrikanthkrish1/Agentic_AI_For_Finance/blob/main/Agentic%20AI%20Finance%20Analyst%20and%2024%20more%20pages%20-%20Personal%20-%20Microsoft_%20Edge%202025-09-15%2020-16-40.gif)
